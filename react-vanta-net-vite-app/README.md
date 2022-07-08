@@ -1,0 +1,4 @@
+- Reference
+  - [demo](https://github.com/XenoverseUp/graddient)
+  - [blog](https://javascript.plainenglish.io/how-to-get-started-with-vanta-js-create-glamorous-and-animated-backgrounds-in-seconds-c2a386516a73)
+  - [docs](https://www.vantajs.com/?effect=net)
