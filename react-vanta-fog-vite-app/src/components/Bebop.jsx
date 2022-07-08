@@ -33,8 +33,9 @@ const Bebop = () => {
       midtoneColor: 0xffd9c0,
       lowlightColor: 0x8cc0de,
       baseColor: 0x8cc0de,
-      blurFactor: 0.8,
-      speed: 1.5,
+      blurFactor: 0.8, // 0 <<< 0.9
+      zoom: 1.25, // 0 <<< 3
+      speed: 1.5, // 0 <<< 5
     });
 
     return () => {
